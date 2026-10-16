@@ -12,4 +12,6 @@ Brand marks and artwork belong to Sparrotronics Private Limited. Their presence 
 
 ## Official logo
 
-`profile/assets/spatics-logo.webp` is the unchanged 800 px logo downloaded from the live spatics.in website. `spatics-avatar.png` places that logo proportionally on a white square with clear space for GitHub’s avatar crop.
+`profile/assets/spatics-official-logo-v0.24.0.webp` is the unchanged 800 px logo downloaded from the live spatics.in website. `spatics-avatar.png` places that logo proportionally on a white square with clear space for GitHub’s avatar crop.
+
+Use a new versioned logo filename for each replacement so README image caches cannot reuse an older asset.

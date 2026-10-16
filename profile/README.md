@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.spatics.in/"><img src="https://raw.githubusercontent.com/Spatics/.github/main/profile/assets/spatics-logo.webp" width="170" alt="SPATICS — visit our website"></a>
+  <a href="https://www.spatics.in/"><img src="https://raw.githubusercontent.com/Spatics/.github/main/profile/assets/spatics-official-logo-v0.24.0.webp" width="170" alt="SPATICS — visit our website"></a>
 </p>
 
 <p align="center">
